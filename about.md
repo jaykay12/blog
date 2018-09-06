@@ -5,8 +5,8 @@ permalink: /about/
 feature-img: "assets/img/sample_feature_img_2.png"
 ---
 
-Type Theme is a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
+Final year student of Computer Science & Engineering at [NIT Hamirpur](http://nith.ac.in/)
 
-Head over to the [theme's documentation](https://rohanchandra.github.io/project/type/) for much more information about Type Theme or to install this theme on your own Jekyll site.
+Interested in Data Structures & Algorithms, Application Development & Machine Learning. Love Coding in Python, C++ & Hacking out new stuff.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+Indian Army brat raised up in different corners of India. Natively, hails from Saharanpur, UP. I am a foodie who love travelling, reading novels & chilling out with friends & family.

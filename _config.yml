@@ -9,20 +9,19 @@ theme_settings:
   avatar: assets/img/kid.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "Personal Blog of Jalaz Kumar" # used by search engines
 
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+     <p>It is easy to KILL individuals, but you cannot kill the IDEAS, GREAT empires CRUMBLED while the ideas SURVIVED.</p>
+     <p><code>"LONG LIVE THE REVOLUTION"</code></p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
+   Copyright © 2018 <a href="https://jalazkumar.me/">Jalaz Kumar</a>. Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: "jalazkumar1208@gmail.com"
   behance:
   bitbucket:
   dribbble:
@@ -31,15 +30,15 @@ theme_settings:
   gitlab:
   github: "jaykay12/blog"
   google_plus:
-  instagram:
-  linkedin:  # Full URL
+  instagram: "jalaz.choudhary"
+  linkedin:  "https://www.linkedin.com/in/jalazkumar/"
   pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter:
   wordpress:
   youtube:
 

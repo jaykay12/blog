@@ -38,12 +38,12 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter:
+  twitter: jalazkumar
   wordpress:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-155615668-3"
   disqus_shortname:
   katex: true # Enable if using math markup
   search: false # Enable the search feature
